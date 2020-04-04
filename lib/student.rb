@@ -8,5 +8,8 @@ class Student < User
     
   end
   
+  def knowledge
+    
+  end
 
 end
